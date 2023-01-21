@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "account-resolution/programs/hello-world",
+    "account-resolution/test-validator",
+    "state-abstract/programs"
+]
